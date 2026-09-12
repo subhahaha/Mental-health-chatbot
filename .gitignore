@@ -1,0 +1,26 @@
+venv/
+.env
+
+# Trained model weights - too large for git, and regeneratable by rerunning
+# train_distilbert.py. Document in the README how to get/rebuild these.
+models/distilbert_mental_health_final/
+
+# SQLite database - contains actual conversation content, and also just
+# a local runtime file, not something to version-control
+data/chatbot_memory.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Raw/large data files - CombinedData.csv is ~30MB and available from Kaggle
+# directly; train.csv/test.csv are regeneratable via data_cleaning.py.
+# Comment these two lines back OUT if you'd rather keep the data in git for
+# easy grading/review - it's a judgment call, not a hard rule.
+# data/CombinedData.csv
+# data/train.csv
+# data/test.csv
+
+# Node (once the frontend exists)
+frontend/node_modules/
+frontend/.env
