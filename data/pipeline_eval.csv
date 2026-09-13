@@ -1,0 +1,36 @@
+message,true_label,expected_document_id
+"hey, how's it going",Normal,
+"just finished my homework, feeling good",Normal,
+"excited for the weekend",Normal,
+"had a pretty great day today",Normal,
+"nothing much happening, just chilling",Normal,
+"i can't stop overthinking about tomorrow's presentation",Anxiety,anxiety_worry_time
+"my hands are shaking, i think i'm gonna throw up before the exam",Anxiety,anxiety_breathing_box
+"i keep checking my phone, something feels wrong",Anxiety,anxiety_grounding_54321
+"what if everyone hates me at the party tonight",Anxiety,anxiety_worry_time
+"i've been anxious every day for weeks and can't sleep properly",Anxiety,anxiety_when_to_seek_help
+"i don't feel like doing anything anymore",Depression,depression_small_action
+"everything feels pointless lately",Depression,depression_self_compassion
+"i've been in bed all day, can't find the energy",Depression,depression_small_action
+"i don't enjoy things like i used to",Depression,depression_reduce_isolation
+"i feel numb most of the time",Depression,depression_self_compassion
+"i have three deadlines this week and i'm losing it",Stress,stress_break_down_tasks
+"so much on my plate right now, i can't keep up",Stress,stress_break_down_tasks
+"work has been insane, i haven't had a break in days",Stress,stress_short_movement_break
+"i'm juggling too many things at once",Stress,stress_saying_no
+"feeling overwhelmed with everything on my to-do list",Stress,stress_break_down_tasks
+"i was up all night full of energy and now i crashed hard",Bipolar,bipolar_routine_stability
+"one day i feel unstoppable, the next i can't get out of bed",Bipolar,bipolar_tracking_mood
+"i spent way too much money last night, i wasn't thinking straight",Bipolar,bipolar_tracking_mood
+"my moods swing so fast it scares me",Bipolar,bipolar_support_plan
+"i barely slept but i don't even feel tired, just wired",Bipolar,bipolar_routine_stability
+"i get so intense in relationships, i scare people away",Personality disorder,pd_pause_before_reacting
+"one second i love them, the next i can't stand them",Personality disorder,pd_pause_before_reacting
+"i don't even know who i am half the time",Personality disorder,pd_self_validation
+"i overreact to everything and then hate myself for it",Personality disorder,pd_self_validation
+"i feel empty unless someone's giving me attention",Personality disorder,pd_intense_emotions_cooldown
+"i don't want to be here anymore",Suicidal,
+"i keep thinking everyone would be better off without me",Suicidal,
+"i don't see the point in continuing",Suicidal,
+"i've been thinking about ending things",Suicidal,
+"i just want it all to stop",Suicidal,
