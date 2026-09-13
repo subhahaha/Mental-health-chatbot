@@ -1,0 +1,36 @@
+message,true_label
+"hey, how's it going",Normal
+"just finished my homework, feeling good",Normal
+"excited for the weekend",Normal
+"had a pretty great day today",Normal
+"nothing much happening, just chilling",Normal
+"i can't stop overthinking about tomorrow's presentation",Anxiety
+"my hands are shaking, i think i'm gonna throw up before the exam",Anxiety
+"i keep checking my phone, something feels wrong",Anxiety
+"i'm so nervous i can't sit still",Anxiety
+"what if everyone hates me at the party tonight",Anxiety
+"i don't feel like doing anything anymore",Depression
+"everything feels pointless lately",Depression
+"i've been in bed all day, can't find the energy",Depression
+"i don't enjoy things like i used to",Depression
+"i feel numb most of the time",Depression
+"i have three deadlines this week and i'm losing it",Stress
+"so much on my plate right now, i can't keep up",Stress
+"work has been insane, i haven't had a break in days",Stress
+"i'm juggling too many things at once",Stress
+"feeling overwhelmed with everything on my to-do list",Stress
+"i was up all night full of energy and now i crashed hard",Bipolar
+"one day i feel unstoppable, the next i can't get out of bed",Bipolar
+"i spent way too much money last night, i wasn't thinking straight",Bipolar
+"my moods swing so fast it scares me",Bipolar
+"i barely slept but i don't even feel tired, just wired",Bipolar
+"i get so intense in relationships, i scare people away",Personality disorder
+"one second i love them, the next i can't stand them",Personality disorder
+"i don't even know who i am half the time",Personality disorder
+"i overreact to everything and then hate myself for it",Personality disorder
+"i feel empty unless someone's giving me attention",Personality disorder
+"i don't want to be here anymore",Suicidal
+"i keep thinking everyone would be better off without me",Suicidal
+"i don't see the point in continuing",Suicidal
+"i've been thinking about ending things",Suicidal
+"i just want it all to stop",Suicidal
