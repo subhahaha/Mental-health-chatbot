@@ -1,0 +1,25 @@
+{
+  "category": "Personality disorder",
+  "documents": [
+    {
+      "id": "pd_intense_emotions_cooldown",
+      "title": "Riding out intense emotional waves",
+      "content": "Emotions can sometimes feel overwhelming and fast-moving, arriving with an intensity that's hard to sit with. A short-term technique some people find grounding in these moments: change something physical quickly - splash cold water on your face, hold something cold, or do a minute of intense movement like jumping jacks. This works by shifting the body's physical state quickly, which can take the edge off an intense emotional spike long enough to think more clearly about what to do next."
+    },
+    {
+      "id": "pd_pause_before_reacting",
+      "title": "Creating a pause before reacting",
+      "content": "In moments of strong emotion, especially in relationships, it can be easy to react in a way that feels right in the moment but doesn't match what you'd actually want afterward. Where possible, creating even a short pause - stepping away for a few minutes, or waiting before sending a message - can create space between the feeling and the action. This isn't about suppressing the emotion, just giving it a little room before deciding how to respond to it."
+    },
+    {
+      "id": "pd_self_validation",
+      "title": "Validating your own emotional experience",
+      "content": "It's common to feel intense emotions and then feel ashamed or 'too much' for having them, which often makes things harder rather than easier. Emotions being intense doesn't mean they're wrong or invalid - they're information, even when they feel like a lot. Trying a simple internal acknowledgment, like 'this feeling makes sense given what's happening, even if it's intense,' can reduce the added layer of shame on top of the original feeling."
+    },
+    {
+      "id": "pd_when_to_seek_help",
+      "title": "Specialized therapy can genuinely help",
+      "content": "Personality disorders are real, well-understood conditions, and certain kinds of therapy - particularly DBT (Dialectical Behavior Therapy), which focuses specifically on emotional regulation and relationship skills - have strong evidence for helping people manage them well. If patterns like intense emotional swings, unstable relationships, or a shifting sense of self have been ongoing and difficult to manage alone, it's genuinely worth seeking an evaluation from a therapist experienced in this area, ideally one familiar with DBT or similar approaches."
+    }
+  ]
+}

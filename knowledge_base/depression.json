@@ -1,0 +1,25 @@
+{
+  "category": "Depression",
+  "documents": [
+    {
+      "id": "depression_small_action",
+      "title": "Taking one small, achievable action",
+      "content": "Depression often makes even simple tasks feel impossible, which can create a cycle where doing less leads to feeling worse, which makes it even harder to do anything. One approach that can help gently interrupt this cycle is picking one very small, specific action - making the bed, stepping outside for two minutes, texting one person back - not because it will fix everything, but because completing something small can create a little momentum. The goal isn't productivity, it's just breaking the stillness a little."
+    },
+    {
+      "id": "depression_self_compassion",
+      "title": "Noticing harsh self-talk",
+      "content": "Depression often comes with a harsh inner voice - thoughts like 'I'm useless' or 'nothing I do matters.' These thoughts can feel like facts, but they're often depression talking, not an accurate picture of reality. A helpful practice is simply noticing when this voice shows up and asking, 'would I say this to a friend going through the same thing?' This doesn't need to erase the thought, just gently create a little distance from believing it completely."
+    },
+    {
+      "id": "depression_reduce_isolation",
+      "title": "Staying connected, even in small ways",
+      "content": "Depression tends to push people toward isolation, even though connection with others is one of the things that most often helps. It doesn't have to be a big gesture - replying to one message, sitting in the same room as family without needing to talk much, or briefly messaging a friend can all count. The goal isn't to force energy that isn't there, just to avoid completely disappearing from the people around you."
+    },
+    {
+      "id": "depression_when_to_seek_help",
+      "title": "When to reach out for professional support",
+      "content": "If low mood has lasted most of the day, nearly every day, for two weeks or more, or comes with changes in sleep, appetite, energy, or the ability to feel enjoyment, it's genuinely worth speaking with a doctor or therapist - depression is a real, treatable condition, not a personal failing. If at any point thoughts of self-harm or not wanting to be alive come up, that's especially important to tell someone about right away - a trusted person, a doctor, or a helpline like Nepal's Mental Health Helpline (1166, toll-free) - rather than carrying it alone."
+    }
+  ]
+}
